@@ -1,3 +1,7 @@
+## 0.7.1 Released on 2020-01-20
+
+    - Fix usage of powershell script on windows
+
 ## 0.5.1 Released on 2017-05-24
 
     - Use the new `appr` binary
